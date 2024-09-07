@@ -10,7 +10,7 @@ dependencies:
   - python-dotenv
   - elevation
   - imageio
-  - jax
+  - jax<0.4.31
   - make
   - numpy
   - pandas
